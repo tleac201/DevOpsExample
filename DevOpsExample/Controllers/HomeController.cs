@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace DevOpsExample.Controllers
 {
+    //This is a comment i added
     public class HomeController : Controller
     {
         public ActionResult Index()
