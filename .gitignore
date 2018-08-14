@@ -1,6 +1,13 @@
+.vs/DevOpsExample/v15/.suo
+.vs/DevOpsExample/v15/Server/sqlite3/storage.ide
+.vs/DevOpsExample/v15/Server/sqlite3/storage.ide-shm
+.vs/DevOpsExample/v15/Server/sqlite3/storage.ide-wal
+DevOpsExample/obj/Debug/DevOpsExample.csprojAssemblyReference.cache
+DevOpsExample/obj/Debug/build.force
 /.vs/
 /packages/
 /DevOpsExample/bin/
 /DevOpsExample/obj/
 /DevOpsExample.Tests/bin/
 /DevOpsExample.Tests/obj/
+		
