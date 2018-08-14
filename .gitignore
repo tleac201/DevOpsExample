@@ -1,6 +1,6 @@
 /.vs/
-/DevOpsExample/packages/
-/DevOpsExample/DevOpsExample/bin/
-/DevOpsExample/DevOpsExample/obj/
-/DevOpsExample/DevOpsExample.Tests/bin/
-/DevOpsExample/DevOpsExample.Tests/obj/
+/packages/
+/DevOpsExample/bin/
+/DevOpsExample/obj/
+/DevOpsExample.Tests/bin/
+/DevOpsExample.Tests/obj/
