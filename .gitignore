@@ -8,6 +8,6 @@ DevOpsExample/obj/Debug/build.force
 /packages/
 /DevOpsExample/bin/
 /DevOpsExample/obj/
-/DevOpsExample.Tests/bin/
-/DevOpsExample.Tests/obj/
+/DevOpsExample.test/bin/
+/DevOpsExample.test/obj/
 		
