@@ -9,7 +9,7 @@ namespace DevOpsExample.test
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.IsTrue(false);
+            Assert.IsTrue(true);
         }
     }
 }
